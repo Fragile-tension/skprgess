@@ -13,7 +13,8 @@
       -ms-flex-direction: column;
       flex-direction: column; }
     .header_nav_item {
-      text-align: right; }
+      text-align: right;
+      padding: 1px; }
     .header_link {
       font-size: 14px; }
   body {
@@ -22,26 +23,8 @@
   .title {
     font-size: 18px;
     padding: 0 20px; }
-  .main_content {
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column; }
-  .col1 {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex; }
-  .form {
-    -ms-flex-preferred-size: 100%;
-    flex-basis: 100%; }
-  .map {
-    display: none; }
-  input {
-    border-radius: 8px;
-    font-size: 12px;
-    line-height: 22px;
-    padding: 6px;
-    padding-left: 20px; }
+  .company-info {
+    max-width: 320px; }
   button {
     border-radius: 8px;
     font-size: 12px;
