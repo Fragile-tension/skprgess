@@ -6,4 +6,8 @@
     font-size: 16px; }
   .content_item_paragraph {
     -ms-flex-preferred-size: 12%;
-    flex-basis: 12%; } }
+    flex-basis: 12%; }
+  .to-top {
+    width: 25px;
+    height: 25px;
+    font-size: 15px; } }
