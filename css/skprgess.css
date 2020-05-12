@@ -206,6 +206,6 @@ summary {
   transition: all .4s; }
 
 .to-top.active {
-  bottom: 32px;
+  bottom: 120px;
   pointer-events: auto;
   opacity: 1; }
